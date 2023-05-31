@@ -1,4 +1,4 @@
-# Oscilloscope Animation Program
+### Oscilloscope Animation Program
 
 This program generates an oscilloscope animation based on an input audio file. The program uses the matplotlib library to create the animation frames and the ffmpeg library to convert the frames into a video.
 
